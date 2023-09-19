@@ -1,0 +1,40 @@
+body {
+   background-color: hsl(212, 45%, 89%);
+}
+
+.homepage {
+   background-color: white;
+   width: 620px;
+   margin: 100px auto;
+   border-radius: 25px;
+   padding:auto;
+   padding-bottom: 5px;
+   text-align:center;
+}
+
+img {
+   margin: 20px 10px;
+   border-radius: 25px;
+}
+
+h1 {
+   font-family: 'Outfit', sans-serif;
+}
+
+
+p {
+   font-family: 'Outfit', sans-serif;
+   font-size: 20px;
+   margin-bottom: 50px;
+   color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+   font-size: 13px; 
+   text-align: center; 
+   }
+
+.attribution a {
+   color: hsl(228, 45%, 44%);
+       }
+  
